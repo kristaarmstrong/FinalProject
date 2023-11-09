@@ -1,0 +1,55 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Let's Cook
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game that lets you guess which character from Breaking Bad said a certain quote. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+For the final project, I will be using Python, so the software that I am using is IDLE. To start off the game, the user will be given a quote from 
+Breaking Bad that a specific character said, then prompt the user to guess who said it. This will be executed using a function that will include a 
+list of quotes from five characters: Walter, Jesse, Saul Goodman, Hank, and Gus. Next, the software will either interpret the user's guess as correct 
+or incorrect using for loops and while loops. If the user has an incorrect guess, the program willl either has them to try again or give up. But if 
+the user has a correct guess, then the program will tell the user that the answer is correct, and also display an image of the character that said the quote.
+In order to accomplish this, the program will have to have a file imported, so the photo is able to be used. Some other things that will be included in the 
+project are if statements and the import random feature.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+N/A
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome for my final project would be to get a code that is able to give the user a quote from Breaking Bad and have them guess who said it. 
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome for my final project would be for the game to give the user another try if the guess is wrong and/or tell them when they get it right. 
+
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome for my final project would be for the program to display an image of the character that said the quote if the user guesses correctly. 
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+The first step I would need to take is to find quotes from Breaking Bad from each of the five characters, some that are well known and some that are not so well known. The next thing that 
+I would need to do is start writing the program that runs the game by creating lists of the quotes from each character. Some of the topics that I may need to research in order to complete 
+the final project would be to find some short cuts in writing in python. I am somewhat confident that I have a suffient amount of knowledge on each of the features that I will be using to write 
+the code for this game. I think the thing that I may struggle with the most in this project is being able to import a file into my program, I am hoping that with refreshing myself on importing 
+files, by reading the textbook and watching previous lecture videos. Another step that I would need to take in order to complete this program is to be able to notice the mistakes that are in my code.
+Sometimes when I am writing code, whether it be for the homework or for the labs, sometimes it takes me a little while to figure out what I am doing wrong in the code. If I am able to  complete all
+of these steps and maybe some extra things along the way. I should be able to accomplish a sufficient amount of what I am hoping to show in the game. 
