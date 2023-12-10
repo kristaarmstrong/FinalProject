@@ -5,4 +5,4 @@ Some of the things I learned from this project is to take your time when writing
 
 The thing I enjoyed most about this project was seeing my code actually work. I know the game I created is not the most challenging code to write, but at the beginnning this course i definitely would not have known where to even start for this project. It was also fun finding fun quotes and facts about the characters used in this game.
 
-Link to the project: https://youtu.be/8p8Y5_ba5Jg
+Link to the project: [https://youtu.be/8p8Y5_ba5Jg](https://youtu.be/8p8Y5_ba5Jg)https://youtu.be/8p8Y5_ba5Jg
