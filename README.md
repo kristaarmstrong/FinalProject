@@ -3,4 +3,4 @@ One of the biggest difficulties I encountered whilst completing this project was
 
 Some of the things I learned from this project is to take your time when writing a code because the time spend looking for corrections could be avoided(hopefully) when the code is written slower. 
 
-The thing I enjoyed most about this project was seeing my code actually work. I know the game I created is not the most challenging code to write, but at the beginnning this course i definitely would not have known where to even start for this project. It was also fun finding fun quotes and facts about the characters used in this game.an
+The thing I enjoyed most about this project was seeing my code actually work. I know the game I created is not the most challenging code to write, but at the beginnning this course i definitely would not have known where to even start for this project. It was also fun finding fun quotes and facts about the characters used in this game.
